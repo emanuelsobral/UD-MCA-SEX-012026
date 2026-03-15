@@ -5,3 +5,13 @@ Semestre: 7º
 Bairro: Diadema
 Se trabalha: Trabalho como analista de dados com foco em IA
 Objetivo: Evoluir para Cientista ou Engenheiro de dados
+
+-----------------Dados Fictios Srgunda Branch----------------
+
+Nome: Joao Paulo
+RA: 123456789
+Curso: Engenharia de Software
+Semestre: 7º
+Bairro: Mooca
+Se trabalha: Sim
+Objetivo: Existir
